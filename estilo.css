@@ -1,0 +1,38 @@
+body {
+    background-color: brown;
+}
+div {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+img {
+    width: 250px;   
+    height: 350px;
+}
+a {
+    font-weight: bold;
+    padding: 5px;
+    background-color: #25D366;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+}
+p {
+    font-size: 16px;
+    font-family: Arial;
+    color: black;
+}
+span {
+    font-weight: bold;
+    font-size: 18px;
+
+}
+h1 {
+    font-size: 26px;
+    color: yellow;
+    border-left: solid 5px black;
+    border-bottom: solid 5px black;
+    margin-left: 125px;
+    margin-right: 125px;
+}
